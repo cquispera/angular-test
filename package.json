@@ -8,6 +8,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "engines":{"node": "8.0.0"},
   "private": true,
   "dependencies": {
     "@angular/cli": "~6.0.3",
